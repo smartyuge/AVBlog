@@ -8,6 +8,9 @@
 雷霄骅：http://blog.csdn.net/leixiaohua1020/
 - 简介：雷神，永远的闪耀明星，国内音视频blog第一人
 
+卢俊：http://ticktick.blog.51cto.com/
+简介：直播，FFmpeg，Android音视频
+
 xiejiashu：http://blog.csdn.net/xiejiashu/
 - 简介：EasyDarwin开源项目作者，音视频，FFmpeg，直播，流媒体技术
 

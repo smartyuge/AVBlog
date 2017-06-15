@@ -18,7 +18,7 @@ xiejiashu：http://blog.csdn.net/xiejiashu/
 - 简介：殷汶杰，B站高级工程师,大量H.264编解码相关，当然不限于于此
 
 lcyw：http://blog.csdn.net/machh/
-- 简介：殷汶杰，B站高级工程师,大量H.264编解码相关，当然不限于于此
+- 简介：马成海，近十年一直从事网络视频监控系统的开发，从客户端开发，音视频编解码开发，到后台服务器的开发，以及视频监控系统的架构设计
 
 四月是你的谎言：http://windrunnerlihuan.com/
 - 简介：Android 多媒体框架

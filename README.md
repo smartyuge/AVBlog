@@ -50,3 +50,6 @@ BIGBurning：http://blog.csdn.net/rootusers/
 声网：http://blog.csdn.net/agora_cloud/
 
 UCloud流媒体团队：http://blog.ucloud.cn/
+
+LiveVideoStack: https://blog.csdn.net/vn9PLgZvnPs1522s82g
+- 简介：[音视频技术开发周刊](https://blog.csdn.net/vn9plgzvnps1522s82g/article/category/9290524)
